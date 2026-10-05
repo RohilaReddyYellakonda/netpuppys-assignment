@@ -428,7 +428,7 @@ function App() {
               help your child grow academically, personally and socially.
             </p>
 
-            <a href="mailto:admissions@example.com" className="button button-dark">
+            <a href="info@tis.edu.in" className="button button-dark">
               START AN ENQUIRY
               <ArrowRight size={16} />
             </a>
@@ -448,7 +448,7 @@ function App() {
               <span>EMAIL</span>
 
               <strong>
-                admissions@example.com
+                info@tis.edu.in
                 <ArrowUpRight size={15} />
               </strong>
             </div>
@@ -457,7 +457,7 @@ function App() {
               <span>PHONE</span>
 
               <strong>
-                +91 00000 00000
+                +91-9837983791
                 <ArrowUpRight size={15} />
               </strong>
             </div>
